@@ -1,0 +1,48 @@
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\bin\Debug\JukeBox.exe.config
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\bin\Debug\JukeBox.exe
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\bin\Debug\JukeBox.pdb
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.csprojResolveAssemblyReference.cache
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.frmMain.resources
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.Properties.Resources.resources
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.GenerateResource.Cache
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.CoreCompileInputs.cache
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.exe
+C:\Users\sho15109138\source\repos\JukeBox\JukeBox\obj\Debug\JukeBox.pdb
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.exe.config
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.exe
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.pdb
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csprojResolveAssemblyReference.cache
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.frmMain.resources
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.Properties.Resources.resources
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.GenerateResource.Cache
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.CoreCompileInputs.cache
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.exe
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.pdb
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\SplashScreen.dll
+H:\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.frmSplash.resources
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.exe.config
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.exe
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.pdb
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\SplashScreen.dll
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csprojAssemblyReference.cache
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.frmMain.resources
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.frmSplash.resources
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.Properties.Resources.resources
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.GenerateResource.cache
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.CoreCompileInputs.cache
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.CopyComplete
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.exe
+G:\HND\Year 2 Semester 1\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.pdb
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.exe.config
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.exe
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\JukeBox.pdb
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\bin\Debug\SplashScreen.dll
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.frmMain.resources
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.frmSplash.resources
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.Properties.Resources.resources
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.csproj.CopyComplete
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.exe
+C:\Users\micha\OneDrive - Belfast Metropolitan College\Year Two\First Semester\Unit 19 - Data Structures And Algorithms\Assignment02_Program\JukeBox\JukeBox\obj\Debug\JukeBox.pdb

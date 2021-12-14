@@ -1,0 +1,39 @@
+﻿
+
+10/12/2018 15:45:12 Input string was not in a correct format.
+
+10/12/2018 15:51:00 Input string was not in a correct format.
+
+10/12/2018 15:51:21 Input string was not in a correct format.
+
+10/12/2018 15:56:20 Input string was not in a correct format.
+
+10/12/2018 15:56:37 Input string was not in a correct format.
+
+10/12/2018 15:56:44 Input string was not in a correct format.
+
+10/12/2018 16:09:40 Input string was not in a correct format.
+
+10/12/2018 16:15:59 Input string was not in a correct format.
+
+10/12/2018 16:19:53 Input string was not in a correct format.
+
+10/12/2018 16:19:55 Input string was not in a correct format.
+
+10/12/2018 16:20:01 Input string was not in a correct format.
+
+10/12/2018 16:20:02 Input string was not in a correct format.
+
+10/12/2018 16:32:16 Input string was not in a correct format.
+
+10/12/2018 16:33:17 Input string was not in a correct format.
+
+10/12/2018 16:51:37 Input string was not in a correct format.
+
+10/12/2018 16:52:00 Input string was not in a correct format.
+
+10/12/2018 17:05:45 Input string was not in a correct format.
+
+10/12/2018 17:29:18 Input string was not in a correct format.
+
+11/12/2018 08:27:23 Input string was not in a correct format.
